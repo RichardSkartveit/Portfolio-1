@@ -1,6 +1,7 @@
 # Community Science Museum
 
-![image]![Community science Museum](https://github.com/RichardSkartveit/Portfolio-1/assets/114581981/d926e80e-07ad-4c24-a7d7-8b0773e85f3b)
+![image]!
+[Community science Museum](https://github.com/RichardSkartveit/Portfolio-1/assets/114581981/d926e80e-07ad-4c24-a7d7-8b0773e85f3b)
 
 A simple overview of the use/purpose of the project.
 
