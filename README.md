@@ -71,4 +71,4 @@ You can link to your license file here if you're using one, or mention what lice
 
 ## Acknowledgments
 
-Noroff(www.noroff.no)
+[Noroff](www.noroff.no)
