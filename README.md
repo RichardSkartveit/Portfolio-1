@@ -1,6 +1,6 @@
-# Your project title
+# Community Science Museum
 
-![image](https://user-images.githubusercontent.com/52622303/164316813-4b12d99f-aeb7-4069-85cf-e72b3a50ac99.png)
+![image]![Community science Museum](https://github.com/RichardSkartveit/Portfolio-1/assets/114581981/d926e80e-07ad-4c24-a7d7-8b0773e85f3b)
 
 A simple overview of the use/purpose of the project.
 
